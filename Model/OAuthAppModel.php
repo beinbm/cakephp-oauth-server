@@ -6,5 +6,6 @@
  * @author Thom
  */
 class OAuthAppModel extends AppModel {
-	//put your code here
+	public $tablePrefix = 'oauth_';
+	
 }
