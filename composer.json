@@ -1,12 +1,8 @@
 {
-  "name" : "beinbm/cakephp-oauth-server",
+  "name" : "thomseddon/cakephp-oauth-server",
   "description" : "CakePHP OAuth2 Server Plugin",
   "type" : "cakephp-plugin",
   "authors" : [{
-      "name" : "Marco Beinbrech",
-      "homepage" : "http://www.beinbrech.com",
-      "role" : "Author"
-    },{
       "name" : "Thom Seddon",
       "homepage" : "http://www.thomseddon.co.uk/",
       "role" : "Author"
@@ -20,7 +16,7 @@
     "oauth",
     "server"
   ],
-  "homepage" : "https://github.com/beinbm/cakephp-oauth-server",
+  "homepage" : "https://github.com/thomseddon/cakephp-oauth-server",
   "license" : [
     "MIT"
   ],
@@ -31,8 +27,8 @@
   },
   "support" : {
     "forum" : "http://stackoverflow.com/tags/cakephp",
-    "source" : "https://github.com/beinbm/cakephp-oauth-server",
-    "issues" : "https://github.com/beinbm/cakephp-oauth-server/issues",
+    "source" : "https://github.com/thomseddon/cakephp-oauth-server",
+    "issues" : "https://github.com/thomseddon/cakephp-oauth-server/issues",
     "irc" : "irc://irc.freenode.org/cakephp"
   },
   "extra" : {
